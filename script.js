@@ -16,16 +16,16 @@ document.addEventListener("DOMContentLoaded", function() {
         card.addEventListener("click", function(event) {
             event.preventDefault();
 
-            let itemStyle = document.querySelector('link[href="../css/item.css"]');
+            let itemStyle = document.querySelector('link[href="./css/item.css"]');
             if (!itemStyle) {
                 let newStyle = document.createElement("link");
                 newStyle.rel = "stylesheet";
-                newStyle.href = "../css/item.css";
+                newStyle.href = "./css/item.css";
                 document.head.appendChild(newStyle);
             }
 
             setTimeout(() => {
-                let styleSheet = document.querySelector('link[href="../css/style.css"]');
+                let styleSheet = document.querySelector('link[href="./css/style.css"]');
                 if (styleSheet) {
                     styleSheet.disabled = true;
                 }
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <head>
                     <meta charset="UTF-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <link rel="stylesheet" href="../css/item.css">
+                    <link rel="stylesheet" href="./css/item.css">
                     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
                     <title>Fine Dining Restaurant</title>
                 </head>
@@ -77,16 +77,16 @@ document.addEventListener("DOMContentLoaded", function() {
         card.addEventListener("click", function(event) {
             event.preventDefault();
 
-            let itemStyle = document.querySelector('link[href="../css/item.css"]');
+            let itemStyle = document.querySelector('link[href="./css/item.css"]');
             if (!itemStyle) {
                 let newStyle = document.createElement("link");
                 newStyle.rel = "stylesheet";
-                newStyle.href = "../css/item.css";
+                newStyle.href = "./css/item.css";
                 document.head.appendChild(newStyle);
             }
 
             setTimeout(() => {
-                let styleSheet = document.querySelector('link[href="../css/style.css"]');
+                let styleSheet = document.querySelector('link[href="./css/style.css"]');
                 if (styleSheet) {
                     styleSheet.disabled = true;
                 }
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <head>
                     <meta charset="UTF-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <link rel="stylesheet" href="../css/item.css">
+                    <link rel="stylesheet" href="./css/item.css">
                     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">    <title>Fine Dining Restaurant</title>
                 </head>
                 <body onload="removeLoader();">
@@ -138,16 +138,16 @@ document.addEventListener("DOMContentLoaded", function() {
         card.addEventListener("click", function(event) {
             event.preventDefault();
 
-            let itemStyle = document.querySelector('link[href="../css/item.css"]');
+            let itemStyle = document.querySelector('link[href="./css/item.css"]');
             if (!itemStyle) {
                 let newStyle = document.createElement("link");
                 newStyle.rel = "stylesheet";
-                newStyle.href = "../css/item.css";
+                newStyle.href = "./css/item.css";
                 document.head.appendChild(newStyle);
             }
 
             setTimeout(() => {
-                let styleSheet = document.querySelector('link[href="../css/style.css"]');
+                let styleSheet = document.querySelector('link[href="./css/style.css"]');
                 if (styleSheet) {
                     styleSheet.disabled = true;
                 }
@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <head>
                     <meta charset="UTF-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <link rel="stylesheet" href="../css/item.css">
+                    <link rel="stylesheet" href="./css/item.css">
                     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">    <title>Fine Dining Restaurant</title>
                 </head>
                 <body onload="removeLoader();">
@@ -199,17 +199,17 @@ document.addEventListener("DOMContentLoaded", function() {
             event.preventDefault(); // Prevent default navigation
 
             // Add item.css immediately
-            let itemStyle = document.querySelector('link[href="../css/item.css"]');
+            let itemStyle = document.querySelector('link[href="./css/item.css"]');
             if (!itemStyle) {
                 let newStyle = document.createElement("link");
                 newStyle.rel = "stylesheet";
-                newStyle.href = "../css/item.css";
+                newStyle.href = "./css/item.css";
                 document.head.appendChild(newStyle);
             }
 
             // Delay before disabling style.css
             setTimeout(() => {
-                let styleSheet = document.querySelector('link[href="../css/style.css"]');
+                let styleSheet = document.querySelector('link[href="./css/style.css"]');
                 if (styleSheet) {
                     styleSheet.disabled = true;
                 }
@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <head>
                     <meta charset="UTF-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <link rel="stylesheet" href="../css/item.css">
+                    <link rel="stylesheet" href="./css/item.css">
                     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">    <title>Fine Dining Restaurant</title>
                 </head>
                 <body onload="removeLoader();">
