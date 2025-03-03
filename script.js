@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <!-- navbar -->
                     <ul>
                         <h1 style="text-align: center; color: aliceblue; margin: 1vh 0 0 0; cursor: default;">RESTAURANT GUIDE</h1>
-                        <li><a href="./"><p>MENU</p></a></li>
+                        <li><a href="./index.html"><p>MENU</p></a></li>
                     </ul>
 
                     <!-- cards -->
