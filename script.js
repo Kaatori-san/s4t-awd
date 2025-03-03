@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <!-- navbar -->
                     <ul>
                         <h1 style="text-align: center; color: aliceblue; margin: 1vh 0 0 0; cursor: default;">RESTAURANT GUIDE</h1>
-                        <li><a href="../"><p>MENU</p></a></li>
+                        <li><a href="./"><p>MENU</p></a></li>
                     </ul>
 
                     <!-- cards -->
@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="column">
                             <div class="card">
                                 <div class="card-content">
-                                    <img src="../img/items/1.jpg" alt="">
+                                    <img src="./img/items/1.jpg" alt="">
                                     <div class="card-text">
                                         <h1 id="items">Gabel Loffel</h1>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna nec velit interdum tempus. Etiam vel urna at ligula volutpat venenatis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus voluptatibus, nam reiciendis quod sapiente deleniti similique nihil nobis facilis nostrum, ipsum eveniet eius ut officiis dolorum exercitationem animi consequuntur mollitia. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab odit repellat laborum quam, assumenda eaque consequuntur nesciunt ea explicabo nostrum corrupti enim veniam consequatur eveniet molestiae blanditiis consectetur illum! Neque?</p>
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <!-- navbar -->
                     <ul>
                         <h1 style="text-align: center; color: aliceblue; margin: 1vh 0 0 0; cursor: default;">RESTAURANT GUIDE</h1>
-                        <li><a href="../"><p>MENU</p></a></li>
+                        <li><a href="./"><p>MENU</p></a></li>
                     </ul>
 
                     <!-- cards -->
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="column">
                             <div class="card">
                                 <div class="card-content">
-                                    <img src="../img/items/2.jpg" alt="">
+                                    <img src="./img/items/2.jpg" alt="">
                                     <div class="card-text">
                                         <h1 id="items">Gary Gari</h1>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna nec velit interdum tempus. Etiam vel urna at ligula volutpat venenatis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus voluptatibus, nam reiciendis quod sapiente deleniti similique nihil nobis facilis nostrum, ipsum eveniet eius ut officiis dolorum exercitationem animi consequuntur mollitia. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab odit repellat laborum quam, assumenda eaque consequuntur nesciunt ea explicabo nostrum corrupti enim veniam consequatur eveniet molestiae blanditiis consectetur illum! Neque?</p>
@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             </div>
                         </div>
                     </div>    
-                    <script src="../script.js"></script>
+                    <script src="./script.js"></script>
                 </body>
                 </html>
 
@@ -168,7 +168,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <!-- navbar -->
                     <ul>
                         <h1 style="text-align: center; color: aliceblue; margin: 1vh 0 0 0; cursor: default;">RESTAURANT GUIDE</h1>
-                        <li><a href="../"><p>MENU</p></a></li>
+                        <li><a href="./"><p>MENU</p></a></li>
                     </ul>
 
                     <!-- cards -->
@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="column">
                             <div class="card">
                                 <div class="card-content">
-                                    <img src="../img/items/3.jpg" alt="">
+                                    <img src="./img/items/3.jpg" alt="">
                                     <div class="card-text">
                                         <h1 id="items">Il Platto</h1>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna nec velit interdum tempus. Etiam vel urna at ligula volutpat venenatis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus voluptatibus, nam reiciendis quod sapiente deleniti similique nihil nobis facilis nostrum, ipsum eveniet eius ut officiis dolorum exercitationem animi consequuntur mollitia. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab odit repellat laborum quam, assumenda eaque consequuntur nesciunt ea explicabo nostrum corrupti enim veniam consequatur eveniet molestiae blanditiis consectetur illum! Neque?</p>
@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             </div>
                         </div>
                     </div>    
-                    <script src="../script.js"></script>
+                    <script src="./script.js"></script>
                 </body>
                 </html>
             `;
@@ -231,7 +231,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <!-- navbar -->
                     <ul>
                         <h1 style="text-align: center; color: aliceblue; margin: 1vh 0 0 0; cursor: default;">RESTAURANT GUIDE</h1>
-                        <li><a href="../"><p>MENU</p></a></li>
+                        <li><a href="./"><p>MENU</p></a></li>
                     </ul>
 
                     <!-- cards -->
@@ -239,7 +239,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="column">
                             <div class="card">
                                 <div class="card-content">
-                                    <img src="../img/items/4.jpg" alt="">
+                                    <img src="./img/items/4.jpg" alt="">
                                     <div class="card-text">
                                         <h1 id="items">Il Platto</h1>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna nec velit interdum tempus. Etiam vel urna at ligula volutpat venenatis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus voluptatibus, nam reiciendis quod sapiente deleniti similique nihil nobis facilis nostrum, ipsum eveniet eius ut officiis dolorum exercitationem animi consequuntur mollitia. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab odit repellat laborum quam, assumenda eaque consequuntur nesciunt ea explicabo nostrum corrupti enim veniam consequatur eveniet molestiae blanditiis consectetur illum! Neque?</p>
@@ -248,7 +248,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             </div>
                         </div>
                     </div>    
-                    <script src="../script.js"></script>
+                    <script src="./script.js"></script>
                 </body>
                 </html>
             `;
